@@ -1,0 +1,7 @@
+## https://github.com/generalbionix/gb_examples
+## download cursor on windows
+## tried wsl but couldn't find the file so couldn't open the folder in cursor
+## download git bash for enviorment
+## place everything in D:\MyRepo
+## download anagonda for conda(python 10)
+## download latest Visual C++ 14 (x64) as requested
